@@ -1,0 +1,12 @@
+{
+  "en": {
+    "title": "Example of Notification",
+    "download_button": "Download Dataset",
+    "text_output": "Text Output"
+  },
+  "fr": {
+    "title": "Exemple de Notification",
+    "download_button": "Télécharger le Dataset",
+    "text_output": "Sortie de Texte"
+  }
+}
